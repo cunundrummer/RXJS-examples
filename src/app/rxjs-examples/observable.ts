@@ -2,7 +2,7 @@ import { Observable } from 'rxjs';
 
 console.log('Begin demonstrating Observable...');
 /**
- * @description OBSERVABLE
+ * @description observable
  * By default is UNICAST.
  * Is a DATA PRODUCER.
  *

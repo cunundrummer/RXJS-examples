@@ -2,7 +2,7 @@ import { Observable, Subject } from 'rxjs';
 import { take } from 'rxjs/operators';
 
 /**
- * @description SUBJECT
+ * @description Subject
  * Main reason to use is to multicast.
  * Can be used as a data producer AND a data consumer.
  * When calling subscribe on a Subject it does not invoke a new    * execution that delivers data. It simply registers the given
